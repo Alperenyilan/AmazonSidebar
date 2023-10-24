@@ -37,3 +37,4 @@ export function AmazonContextProvider(props) {
     </AmazonContext.Provider>
   );
 }
+// props olarak geçir
