@@ -14,17 +14,18 @@
   position: absolute;
   top: 0;
   left: 0;
+  padding-right: 450px;
   min-width: 100vw;
   min-height: 100vh;
   display: flex;
   text-align: center;
   flex-direction: column;
-  justify-content: center;
+  justify-content: left;
   align-items: center;
   z-index: -100;
 }
 .background-page-container p {
-  font-size: 40px;
+  font-size: 30px;
 }
 .background-page-container img {
   margin-top: 20px;
